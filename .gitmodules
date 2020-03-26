@@ -1,0 +1,3 @@
+[submodule "web/app/themes/legendary-pancake"]
+	path = web/app/themes/legendary-pancake
+	url = git@github.com:gnanakeethan/legendary-pancake.git
